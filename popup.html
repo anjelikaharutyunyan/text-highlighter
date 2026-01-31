@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title data-i18n="popupTitle">Highlight text</title>
+    <link rel="stylesheet" href="popup.css" />
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="top">
+            <div class="title" data-i18n="popupHeaderTitle">Highlight text</div>
+
+            <!-- FIX: button, not div -->
+            <div id="undoBtn" disabled data-i18n="btnUndo">Undo</div>
+
+            <div class="actions">
+                <button id="copyAll" class="btn" data-i18n="btnCopyAll">Copy all</button>
+                <button id="clearAll" class="btn danger" data-i18n="btnUnmarkAll">Unmark all</button>
+            </div>
+        </div>
+
+        <div class="statusCard">
+            <div class="statusTop">
+                <div id="status" class="status" data-i18n="statusLoading">Loading…</div>
+                <div id="badge" class="badge">0</div>
+            </div>
+        </div>
+
+        <div id="list" class="list"></div>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+
+</html>

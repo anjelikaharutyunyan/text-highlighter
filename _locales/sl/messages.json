@@ -1,0 +1,99 @@
+{
+    "extName": {
+        "message": "Highlight text",
+        "description": "Extension name shown in Chrome."
+    },
+    "extDescription": {
+        "message": "Highlight selected text and manage highlights per page.",
+        "description": "Extension description in manifest."
+    },
+    "actionTitle": {
+        "message": "Highlight text",
+        "description": "Tooltip for extension icon."
+    },
+    "popupTitle": {
+        "message": "Highlight text",
+        "description": "Popup page title."
+    },
+    "popupHeaderTitle": {
+        "message": "Highlight text",
+        "description": "Popup header title."
+    },
+    "btnUndo": {
+        "message": "Undo"
+    },
+    "btnCopyAll": {
+        "message": "Copy all"
+    },
+    "btnUnmarkAll": {
+        "message": "Unmark all"
+    },
+    "btnUnmarkOne": {
+        "message": "Unmark"
+    },
+    "btnCopyOne": {
+        "message": "Copy"
+    },
+    "statusLoading": {
+        "message": "Loading…"
+    },
+    "statusNoHighlights": {
+        "message": "No highlights on this page."
+    },
+    "hintEmpty": {
+        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+    },
+    "statusHighlightsCount": {
+        "message": "Highlights: $COUNT$",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "msgDeleted": {
+        "message": "Deleted"
+    },
+    "msgDeleteFailed": {
+        "message": "Delete failed."
+    },
+    "msgCopied": {
+        "message": "Copied"
+    },
+    "msgCopiedAll": {
+        "message": "Copied all highlights!"
+    },
+    "msgCopyFailed": {
+        "message": "Copy failed."
+    },
+    "msgNothingToCopy": {
+        "message": "Nothing to copy."
+    },
+    "msgUndoComplete": {
+        "message": "Undo complete"
+    },
+    "msgUndoFailed": {
+        "message": "Undo failed."
+    },
+    "msgNothingToUndo": {
+        "message": "Nothing to undo."
+    },
+    "msgAllCleared": {
+        "message": "All highlights cleared."
+    },
+    "msgClearFailed": {
+        "message": "Failed to clear highlights."
+    },
+    "msgCannotAccessPage": {
+        "message": "Cannot access this page (try a normal webpage tab)."
+    },
+    "ariaHighlightSelection": {
+        "message": "Highlight selection"
+    },
+    "titleHighlight": {
+        "message": "Highlight"
+    },
+    "altHighlight": {
+        "message": "Highlight"
+    }
+}
