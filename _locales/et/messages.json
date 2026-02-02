@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Teksti esiletõstmine",
+        "description": "Chrome'is kuvatav laienduse nimi."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Tõsta valitud tekst esile ja halda esiletõstmisi lehekülgede kaupa.",
+        "description": "Laienduse kirjeldus manifestis."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Teksti esiletõstmine",
+        "description": "Laienduse ikooni kohtspikker."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Teksti esiletõstmine",
+        "description": "Hüpikakna pealkiri."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Teksti esiletõstmine",
+        "description": "Hüpikakna päise pealkiri."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Võta tagasi"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopeeri kõik"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Eemalda kõik märgistused"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Eemalda märgistus"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopeeri"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Laadimine…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Sellel lehel pole esiletõstmisi."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Vali lehel suvaline tekst, et see esile tõsta. Seejärel halda ja kopeeri esiletõstmisi siin."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Esiletõstmised: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Kustutatud"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Kustutamine ebaõnnestus."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Kopeeritud"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Kõik esiletõstmised on kopeeritud!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopeerimine ebaõnnestus."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Pole midagi kopeerida."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Tagasivõtmine lõpetatud"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Tagasivõtmine ebaõnnestus."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Pole midagi tagasi võtta."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Kõik esiletõstmised on eemaldatud."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Esiletõstmiste eemaldamine ebaõnnestus."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Sellele lehele ei pääse ligi (proovi tavalist veebilehe vahekaarti)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Valiku esiletõstmine"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Esiletõstmine"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Esiletõstmine"
     }
 }

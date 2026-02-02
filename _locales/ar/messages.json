@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "تمييز النص",
+        "description": "اسم الإضافة المعروض في Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "تمييز النص المحدد وإدارة التمييزات لكل صفحة.",
+        "description": "وصف الإضافة في ملف manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "تمييز النص",
+        "description": "تلميح أيقونة الإضافة."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "تمييز النص",
+        "description": "عنوان نافذة الإضافة."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "تمييز النص",
+        "description": "عنوان رأس نافذة الإضافة."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "تراجع"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "نسخ الكل"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "إزالة التمييز عن الكل"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "إزالة التمييز"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "نسخ"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "جارٍ التحميل…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "لا توجد تمييزات في هذه الصفحة."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "حدد أي نص في الصفحة لتمييزه، ثم قم بإدارة ونسخ التمييزات من هنا."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "عدد التمييزات: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "تم الحذف"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "فشل الحذف."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "تم النسخ"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "تم نسخ جميع التمييزات!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "فشل النسخ."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "لا يوجد ما يمكن نسخه."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "تم التراجع"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "فشل التراجع."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "لا يوجد ما يمكن التراجع عنه."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "تمت إزالة جميع التمييزات."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "فشل في إزالة التمييزات."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "لا يمكن الوصول إلى هذه الصفحة (جرّب علامة تبويب ويب عادية)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "تمييز التحديد"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "تمييز"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "تمييز"
     }
 }

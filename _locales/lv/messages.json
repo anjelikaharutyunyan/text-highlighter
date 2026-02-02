@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Izcelt tekstu",
+        "description": "Paplašinājuma nosaukums, kas tiek rādīts pārlūkā Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Izcelt atlasīto tekstu un pārvaldīt izcēlumus katrā lapā.",
+        "description": "Paplašinājuma apraksts manifestā."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Izcelt tekstu",
+        "description": "Rīka padoms paplašinājuma ikonai."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Izcelt tekstu",
+        "description": "Uznirstošā loga lapas nosaukums."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Izcelt tekstu",
+        "description": "Uznirstošā loga galvenes nosaukums."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Atsaukt"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopēt visu"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Noņemt visus izcēlumus"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Noņemt izcēlumu"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopēt"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Ielādējas…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Šajā lapā nav izcēlumu."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Atlasiet jebkuru tekstu lapā, lai to izceltu. Pēc tam šeit varat pārvaldīt un kopēt izcēlumus."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Izcēlumi: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Dzēsts"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Neizdevās dzēst."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Nokopēts"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Visi izcēlumi ir nokopēti!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Neizdevās kopēt."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Nav ko kopēt."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Atsaukšana pabeigta"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Neizdevās atsaukt."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Nav ko atsaukt."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Visi izcēlumi ir noņemti."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Neizdevās noņemt izcēlumus."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Nevar piekļūt šai lapai (mēģiniet parastu tīmekļa lapas cilni)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Izcelt atlasi"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Izcelt"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Izcelt"
     }
 }

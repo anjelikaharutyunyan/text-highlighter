@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "テキストをハイライト",
+        "description": "Chrome に表示される拡張機能の名前。"
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "選択したテキストをハイライトし、ページごとにハイライトを管理します。",
+        "description": "manifest に記載される拡張機能の説明。"
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "テキストをハイライト",
+        "description": "拡張機能アイコンのツールチップ。"
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "テキストをハイライト",
+        "description": "ポップアップページのタイトル。"
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "テキストをハイライト",
+        "description": "ポップアップヘッダーのタイトル。"
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "元に戻す"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "すべてコピー"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "すべて解除"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "解除"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "コピー"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "読み込み中…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "このページにはハイライトがありません。"
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "ページ上の任意のテキストを選択してハイライトしてください。その後、ここでハイライトを管理・コピーできます。"
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "ハイライト数: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "削除しました"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "削除に失敗しました。"
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "コピーしました"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "すべてのハイライトをコピーしました！"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "コピーに失敗しました。"
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "コピーするものがありません。"
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "元に戻しました"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "元に戻せませんでした。"
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "元に戻すものがありません。"
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "すべてのハイライトを解除しました。"
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "ハイライトの解除に失敗しました。"
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "このページにアクセスできません（通常のウェブページタブをお試しください）。"
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "選択部分をハイライト"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "ハイライト"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "ハイライト"
     }
 }

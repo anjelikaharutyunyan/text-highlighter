@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Angazia maandishi",
+        "description": "Jina la kiendelezi linaloonyeshwa kwenye Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Angazia maandishi yaliyochaguliwa na usimamie uangaziaji kwa kila ukurasa.",
+        "description": "Maelezo ya kiendelezi katika manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Angazia maandishi",
+        "description": "Maelezo ya kidokezo kwa ikoni ya kiendelezi."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Angazia maandishi",
+        "description": "Kichwa cha ukurasa wa popup."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Angazia maandishi",
+        "description": "Kichwa cha juu cha popup."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Tendua"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Nakili zote"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Ondoa uangaziaji wote"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Ondoa uangaziaji"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Nakili"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Inapakia…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Hakuna uangaziaji kwenye ukurasa huu."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Chagua maandishi yoyote kwenye ukurasa ili kuyaangazia. Kisha simamia na nakili uangaziaji hapa."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Uangaziaji: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Imefutwa"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Kufuta kumeshindikana."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Imenakiliwa"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Uangaziaji wote umenakiliwa!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kunakili kumeshindikana."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Hakuna cha kunakili."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Kutendua kumekamilika"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Kutendua kumeshindikana."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Hakuna cha kutendua."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Uangaziaji wote umeondolewa."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Imeshindikana kuondoa uangaziaji."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Haiwezi kufikia ukurasa huu (jaribu ukurasa wa kawaida wa wavuti)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Angazia uteuzi"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Angazia"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Angazia"
     }
 }

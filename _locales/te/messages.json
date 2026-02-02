@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "వచనాన్ని హైలైట్ చేయండి",
+        "description": "Chrome లో చూపబడే ఎక్స్‌టెన్షన్ పేరు."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "ఎంచుకున్న వచనాన్ని హైలైట్ చేసి, ప్రతి పేజీలో హైలైట్‌లను నిర్వహించండి.",
+        "description": "manifest లో ఉన్న ఎక్స్‌టెన్షన్ వివరణ."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "వచనాన్ని హైలైట్ చేయండి",
+        "description": "ఎక్స్‌టెన్షన్ ఐకాన్‌కు టూల్‌టిప్."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "వచనాన్ని హైలైట్ చేయండి",
+        "description": "పాప్‌అప్ పేజీ శీర్షిక."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "వచనాన్ని హైలైట్ చేయండి",
+        "description": "పాప్‌అప్ హెడ్డర్ శీర్షిక."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "రద్దు చేయి"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "అన్నింటిని కాపీ చేయి"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "అన్ని హైలైట్‌లను తొలగించు"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "హైలైట్ తొలగించు"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "కాపీ చేయి"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "లోడ్ అవుతోంది…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "ఈ పేజీలో హైలైట్‌లు లేవు."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "హైలైట్ చేయడానికి పేజీలోని ఏ వచనమైనా ఎంచుకోండి. తర్వాత ఇక్కడ హైలైట్‌లను నిర్వహించి కాపీ చేయవచ్చు."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "హైలైట్‌లు: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "తొలగించబడింది"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "తొలగించడం విఫలమైంది."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "కాపీ అయింది"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "అన్ని హైలైట్‌లు కాపీ అయ్యాయి!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "కాపీ చేయడం విఫలమైంది."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "కాపీ చేయడానికి ఏమి లేదు."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "రద్దు పూర్తైంది"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "రద్దు చేయడం విఫలమైంది."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "రద్దు చేయడానికి ఏమి లేదు."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "అన్ని హైలైట్‌లు తొలగించబడ్డాయి."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "హైలైట్‌లను తొలగించడం విఫలమైంది."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "ఈ పేజీని యాక్సెస్ చేయలేము (సాధారణ వెబ్‌పేజీని ప్రయత్నించండి)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "ఎంచుకున్నదాన్ని హైలైట్ చేయండి"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "హైలైట్"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "హైలైట్"
     }
 }

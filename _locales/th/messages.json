@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "ไฮไลต์ข้อความ",
+        "description": "ชื่อส่วนขยายที่แสดงใน Chrome"
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "ไฮไลต์ข้อความที่เลือกและจัดการไฮไลต์ในแต่ละหน้า",
+        "description": "คำอธิบายส่วนขยายในไฟล์ manifest"
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "ไฮไลต์ข้อความ",
+        "description": "ทูลทิปของไอคอนส่วนขยาย"
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "ไฮไลต์ข้อความ",
+        "description": "ชื่อหน้าต่างป๊อปอัป"
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "ไฮไลต์ข้อความ",
+        "description": "ชื่อส่วนหัวของป๊อปอัป"
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "เลิกทำ"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "คัดลอกทั้งหมด"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "ลบไฮไลต์ทั้งหมด"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "ลบไฮไลต์"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "คัดลอก"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "กำลังโหลด…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "ไม่มีไฮไลต์ในหน้านี้"
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "เลือกข้อความใดก็ได้บนหน้าเพื่อไฮไลต์ จากนั้นสามารถจัดการและคัดลอกไฮไลต์ได้ที่นี่"
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "ไฮไลต์: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "ลบแล้ว"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "ลบไม่สำเร็จ"
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "คัดลอกแล้ว"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "คัดลอกไฮไลต์ทั้งหมดแล้ว!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "คัดลอกไม่สำเร็จ"
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "ไม่มีอะไรให้คัดลอก"
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "เลิกทำเรียบร้อย"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "เลิกทำไม่สำเร็จ"
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "ไม่มีอะไรให้เลิกทำ"
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "ลบไฮไลต์ทั้งหมดแล้ว"
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "ลบไฮไลต์ไม่สำเร็จ"
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "ไม่สามารถเข้าถึงหน้านี้ได้ (ลองใช้หน้าเว็บปกติ)"
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "ไฮไลต์ข้อความที่เลือก"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "ไฮไลต์"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "ไฮไลต์"
     }
 }

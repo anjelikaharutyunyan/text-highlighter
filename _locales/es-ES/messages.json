@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Resaltar texto",
+        "description": "Nombre de la extensión mostrado en Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Resalta el texto seleccionado y gestiona los resaltados por página.",
+        "description": "Descripción de la extensión en el manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Resaltar texto",
+        "description": "Información sobre herramientas del icono de la extensión."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Resaltar texto",
+        "description": "Título de la página emergente."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Resaltar texto",
+        "description": "Título del encabezado del popup."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Deshacer"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Copiar todo"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Quitar todos los resaltados"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Quitar resaltado"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Copiar"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Cargando…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "No hay resaltados en esta página."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Selecciona cualquier texto de la página para resaltarlo. Después, gestiona y copia los resaltados aquí."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Resaltados: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Eliminado"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Error al eliminar."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Copiado"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "¡Todos los resaltados se han copiado!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Error al copiar."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "No hay nada para copiar."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Deshacer completado"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Error al deshacer."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "No hay nada que deshacer."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Todos los resaltados se han eliminado."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Error al eliminar los resaltados."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "No se puede acceder a esta página (prueba con una pestaña web normal)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Resaltar selección"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Resaltar"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Resaltar"
     }
 }

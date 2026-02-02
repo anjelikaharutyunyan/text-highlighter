@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "টেক্সট হাইলাইট",
+        "description": "Chrome-এ প্রদর্শিত এক্সটেনশনের নাম।"
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "নির্বাচিত টেক্সট হাইলাইট করুন এবং প্রতিটি পৃষ্ঠায় হাইলাইট পরিচালনা করুন।",
+        "description": "manifest-এ এক্সটেনশনের বিবরণ।"
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "টেক্সট হাইলাইট",
+        "description": "এক্সটেনশন আইকনের টুলটিপ।"
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "টেক্সট হাইলাইট",
+        "description": "পপআপ পৃষ্ঠার শিরোনাম।"
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "টেক্সট হাইলাইট",
+        "description": "পপআপ হেডারের শিরোনাম।"
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "পূর্বাবস্থায় ফিরুন"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "সব কপি করুন"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "সব হাইলাইট সরান"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "হাইলাইট সরান"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "কপি করুন"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "লোড হচ্ছে…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "এই পৃষ্ঠায় কোনো হাইলাইট নেই।"
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "হাইলাইট করার জন্য পৃষ্ঠায় যেকোনো টেক্সট নির্বাচন করুন। এরপর এখানে হাইলাইটগুলো পরিচালনা ও কপি করুন।"
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "হাইলাইট: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "মুছে ফেলা হয়েছে"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "মুছে ফেলতে ব্যর্থ।"
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "কপি হয়েছে"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "সব হাইলাইট কপি করা হয়েছে!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "কপি ব্যর্থ হয়েছে।"
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "কপি করার মতো কিছু নেই।"
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "পূর্বাবস্থায় ফেরানো সম্পন্ন"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "পূর্বাবস্থায় ফেরানো ব্যর্থ।"
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "পূর্বাবস্থায় ফেরানোর কিছু নেই।"
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "সব হাইলাইট মুছে ফেলা হয়েছে।"
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "হাইলাইট মুছতে ব্যর্থ।"
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "এই পৃষ্ঠায় প্রবেশ করা যাচ্ছে না (সাধারণ ওয়েবপেজ ট্যাব ব্যবহার করুন)।"
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "নির্বাচন হাইলাইট করুন"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "হাইলাইট"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "হাইলাইট"
     }
 }

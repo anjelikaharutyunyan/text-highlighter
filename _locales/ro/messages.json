@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Evidențiază textul",
+        "description": "Numele extensiei afișat în Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Evidențiază textul selectat și gestionează evidențierile pe fiecare pagină.",
+        "description": "Descrierea extensiei în manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Evidențiază textul",
+        "description": "Indicație pentru pictograma extensiei."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Evidențiază textul",
+        "description": "Titlul paginii pop-up."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Evidențiază textul",
+        "description": "Titlul antetului pop-up."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Anulează"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Copiază tot"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Elimină toate evidențierile"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Elimină evidențierea"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Copiază"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Se încarcă…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Nu există evidențieri pe această pagină."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Selectează orice text din pagină pentru a-l evidenția. Apoi gestionează și copiază evidențierile aici."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Evidențieri: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Șters"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Ștergerea a eșuat."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Copiat"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Toate evidențierile au fost copiate!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Copierea a eșuat."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Nu există nimic de copiat."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Anulare finalizată"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Anularea a eșuat."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Nu există nimic de anulat."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Toate evidențierile au fost eliminate."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Eliminarea evidențierilor a eșuat."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Nu se poate accesa această pagină (încearcă o filă normală de pagină web)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Evidențiază selecția"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Evidențiază"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Evidențiază"
     }
 }

@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Маркиране на текст",
+        "description": "Име на разширението, показвано в Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Маркира избран текст и управлява маркировките на всяка страница.",
+        "description": "Описание на разширението в manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Маркиране на текст",
+        "description": "Подсказка за иконата на разширението."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Маркиране на текст",
+        "description": "Заглавие на изскачащия прозорец."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Маркиране на текст",
+        "description": "Заглавие на хедъра на изскачащия прозорец."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Отмяна"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Копирай всички"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Премахни всички маркировки"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Премахни маркировка"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Копирай"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Зареждане…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Няма маркировки на тази страница."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Изберете текст на страницата, за да го маркирате. След това управлявайте и копирайте маркировките тук."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Маркировки: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Изтрито"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Изтриването не бе успешно."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Копирано"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Всички маркировки са копирани!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Копирането не бе успешно."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Няма нищо за копиране."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Отмяната е завършена"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Отмяната не бе успешна."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Няма нищо за отмяна."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Всички маркировки са премахнати."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Неуспешно премахване на маркировките."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Няма достъп до тази страница (опитайте с обикновен уеб таб)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Маркиране на избора"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Маркиране"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Маркиране"
     }
 }

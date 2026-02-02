@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Zvýrazniť text",
+        "description": "Názov rozšírenia zobrazený v Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Zvýraznite vybraný text a spravujte zvýraznenia na jednotlivých stránkach.",
+        "description": "Popis rozšírenia v manifeste."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Zvýrazniť text",
+        "description": "Pomôcka pre ikonu rozšírenia."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Zvýrazniť text",
+        "description": "Názov stránky vyskakovacieho okna."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Zvýrazniť text",
+        "description": "Názov hlavičky vyskakovacieho okna."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Späť"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopírovať všetko"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Odstrániť všetky zvýraznenia"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Odstrániť zvýraznenie"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopírovať"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Načítava sa…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Na tejto stránke nie sú žiadne zvýraznenia."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Vyberte ľubovoľný text na stránke, aby ste ho zvýraznili. Potom tu môžete zvýraznenia spravovať a kopírovať."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Zvýraznenia: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Odstránené"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Odstránenie zlyhalo."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Skopírované"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Všetky zvýraznenia boli skopírované!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopírovanie zlyhalo."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Nie je čo kopírovať."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Vrátenie dokončené"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Vrátenie zlyhalo."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Nie je čo vrátiť."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Všetky zvýraznenia boli odstránené."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Nepodarilo sa odstrániť zvýraznenia."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Nie je možné pristupovať k tejto stránke (skúste bežnú kartu webovej stránky)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Zvýrazniť výber"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Zvýrazniť"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Zvýrazniť"
     }
 }

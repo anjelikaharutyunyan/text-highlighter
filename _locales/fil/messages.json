@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "I-highlight ang teksto",
+        "description": "Pangalan ng extension na ipinapakita sa Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "I-highlight ang napiling teksto at pamahalaan ang mga highlight sa bawat pahina.",
+        "description": "Paglalarawan ng extension sa manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "I-highlight ang teksto",
+        "description": "Tooltip para sa icon ng extension."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "I-highlight ang teksto",
+        "description": "Pamagat ng popup page."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "I-highlight ang teksto",
+        "description": "Pamagat ng header ng popup."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "I-undo"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopyahin lahat"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Alisin lahat ng highlight"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Alisin ang highlight"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopyahin"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Naglo-load…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Walang mga highlight sa pahinang ito."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Pumili ng anumang teksto sa pahina upang i-highlight ito. Pagkatapos, pamahalaan at kopyahin ang mga highlight dito."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Mga highlight: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,43 +52,43 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Tinanggal"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Hindi nagtagumpay ang pagtanggal."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Nakopya"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Nakopya ang lahat ng highlight!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Hindi nagtagumpay ang pagkopya."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Walang makokopya."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Tapos na ang pag-undo"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Hindi nagtagumpay ang pag-undo."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Walang ma-undo."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Natanggal ang lahat ng highlight."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Hindi nagtagumpay ang pagtanggal ng mga highlight."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Hindi ma-access ang pahinang ito (subukang gumamit ng normal na web page tab)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "I-highlight ang napili"
     },
     "titleHighlight": {
         "message": "Highlight"

@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Markera text",
+        "description": "Namnet på tillägget som visas i Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Markera vald text och hantera markeringar per sida.",
+        "description": "Beskrivning av tillägget i manifestet."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Markera text",
+        "description": "Verktygstips för tilläggsikonen."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Markera text",
+        "description": "Titel på popup-sidan."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Markera text",
+        "description": "Titel på popup-rubriken."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Ångra"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopiera alla"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Ta bort alla markeringar"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Ta bort markering"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopiera"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Laddar…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Inga markeringar på den här sidan."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Markera valfri text på sidan för att markera den. Hantera och kopiera sedan markeringarna här."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Markeringar: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Borttagen"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Det gick inte att ta bort."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Kopierad"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Alla markeringar har kopierats!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopiering misslyckades."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Inget att kopiera."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Ångring slutförd"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Ångring misslyckades."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Inget att ångra."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Alla markeringar har tagits bort."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Det gick inte att ta bort markeringarna."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Det går inte att komma åt den här sidan (försök med en vanlig webbsida)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Markera val"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Markera"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Markera"
     }
 }

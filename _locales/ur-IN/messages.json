@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "متن کو نمایاں کریں",
+        "description": "Chrome میں دکھایا جانے والا ایکسٹینشن کا نام"
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "منتخب متن کو نمایاں کریں اور ہر صفحے پر نمایاں کیے گئے حصوں کا نظم کریں۔",
+        "description": "manifest میں ایکسٹینشن کی تفصیل"
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "متن کو نمایاں کریں",
+        "description": "ایکسٹینشن آئیکن کے لیے ٹول ٹِپ"
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "متن کو نمایاں کریں",
+        "description": "پاپ اپ صفحے کا عنوان"
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "متن کو نمایاں کریں",
+        "description": "پاپ اپ ہیڈر کا عنوان"
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "واپس کریں"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "سب کاپی کریں"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "تمام نمایاں حصے ہٹائیں"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "نمایاں ہٹائیں"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "کاپی کریں"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "لوڈ ہو رہا ہے…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "اس صفحے پر کوئی نمایاں حصہ موجود نہیں۔"
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "نمایاں کرنے کے لیے صفحے پر کسی بھی متن کو منتخب کریں۔ پھر یہاں سے نمایاں حصوں کو منظم اور کاپی کریں۔"
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "نمایاں حصے: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "حذف کر دیا گیا"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "حذف کرنے میں ناکامی۔"
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "کاپی ہو گیا"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "تمام نمایاں حصے کاپی ہو گئے!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "کاپی کرنے میں ناکامی۔"
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "کاپی کرنے کے لیے کچھ نہیں۔"
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "واپس کرنا مکمل ہوا"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "واپس کرنے میں ناکامی۔"
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "واپس کرنے کے لیے کچھ نہیں۔"
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "تمام نمایاں حصے صاف کر دیے گئے۔"
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "نمایاں حصے صاف نہیں ہو سکے۔"
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "اس صفحے تک رسائی ممکن نہیں (کسی عام ویب صفحے کی کوشش کریں)۔"
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "منتخب متن کو نمایاں کریں"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "نمایاں کریں"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "نمایاں کریں"
     }
 }

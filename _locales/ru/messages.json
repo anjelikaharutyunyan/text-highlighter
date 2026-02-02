@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Выделение текста",
+        "description": "Название расширения в Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Выделяйте текст и управляйте выделениями на каждой странице.",
+        "description": "Описание расширения в манифесте."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Выделить текст",
+        "description": "Подсказка для иконки расширения."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Выделение текста",
+        "description": "Заголовок всплывающего окна."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Выделение текста",
+        "description": "Заголовок в popup."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Отменить"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Копировать всё"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Снять всё"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Снять"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Копировать"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Загрузка…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "На этой странице нет выделений."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Выделите любой текст на странице, чтобы подсветить его. Здесь вы сможете управлять и копировать выделения."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Выделений: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Удалено"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Не удалось удалить."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Скопировано"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Все выделения скопированы!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Не удалось скопировать."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Нечего копировать."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Отмена выполнена"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Не удалось отменить."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Нечего отменять."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Все выделения удалены."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Не удалось очистить выделения."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Невозможно получить доступ к странице (попробуйте обычную вкладку)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Выделить выбранный текст"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Выделить"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Выделить"
     }
 }

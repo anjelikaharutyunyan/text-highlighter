@@ -45,6 +45,10 @@ body {
 }
 
 /* ================= ACTION BUTTONS ================= */
+.saveActions {
+    display: flex;
+    justify-content: center;
+}
 
 .actions {
     display: flex;
@@ -110,7 +114,18 @@ body {
     cursor: pointer;
 }
 
-
+.saveBtn {
+    padding: 8px 28px;
+    font-size: 13px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* color: #333; */
+    border: none;
+    cursor: pointer;
+    background: none;
+}
 
 
 .header {
@@ -313,12 +328,10 @@ body {
 
 .icon-btn {
     background-color: rgba(0, 0, 0, 0.06);
-    /* light gray transparent */
     color: #444;
     border-radius: 8px;
     padding: 6px 8px;
     min-width: 32px;
     min-height: 32px;
-
     box-shadow: none;
 }

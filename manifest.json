@@ -1,7 +1,7 @@
 {
     "name": "__MSG_extName__",
     "description": "__MSG_extDescription__",
-    "version": "2.4.1",
+    "version": "2.4.2",
     "manifest_version": 3,
     "default_locale": "en",
     "permissions": [
@@ -48,7 +48,8 @@
             "resources": [
                 "icons/16x16.png",
                 "icons/48x48.png",
-                "icons/64x64.png"
+                "icons/64x64.png",
+                "vendor/jspdf.umd.min.js"
             ],
             "matches": [
                 "<all_urls>"

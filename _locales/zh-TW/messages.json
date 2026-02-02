@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "標註文字",
+        "description": "在 Chrome 中顯示的擴充功能名稱"
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "標註選取的文字，並依頁面管理標註內容。",
+        "description": "manifest 中的擴充功能說明"
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "標註文字",
+        "description": "擴充功能圖示的提示文字"
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "標註文字",
+        "description": "彈出視窗標題"
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "標註文字",
+        "description": "彈出視窗頁首標題"
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "復原"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "全部複製"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "清除所有標註"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "取消標註"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "複製"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "載入中…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "此頁面沒有任何標註內容。"
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "在頁面中選取任意文字即可進行標註，之後可在此管理並複製標註內容。"
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "標註數量：$COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "已刪除"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "刪除失敗。"
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "已複製"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "已複製所有標註內容！"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "複製失敗。"
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "沒有可複製的內容。"
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "復原完成"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "復原失敗。"
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "沒有可復原的操作。"
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "已清除所有標註內容。"
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "清除標註失敗。"
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "無法存取此頁面（請嘗試一般的網頁分頁）。"
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "標註選取內容"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "標註"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "標註"
     }
 }

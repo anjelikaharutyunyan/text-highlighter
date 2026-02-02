@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Paryškinti tekstą",
+        "description": "„Chrome“ rodomas plėtinio pavadinimas."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Paryškinkite pasirinktą tekstą ir tvarkykite paryškinimus kiekviename puslapyje.",
+        "description": "Plėtinio aprašymas manifeste."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Paryškinti tekstą",
+        "description": "Plėtinio piktogramos patarimas."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Paryškinti tekstą",
+        "description": "Iššokančio lango puslapio pavadinimas."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Paryškinti tekstą",
+        "description": "Iššokančio lango antraštės pavadinimas."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Atšaukti"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopijuoti viską"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Pašalinti visus paryškinimus"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Pašalinti paryškinimą"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopijuoti"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Įkeliama…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Šiame puslapyje nėra paryškinimų."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Pasirinkite bet kurį teksto fragmentą puslapyje, kad jį paryškintumėte. Tada čia galėsite tvarkyti ir kopijuoti paryškinimus."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Paryškinimai: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Ištrinta"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Nepavyko ištrinti."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Nukopijuota"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Visi paryškinimai nukopijuoti!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Nepavyko nukopijuoti."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Nėra ko kopijuoti."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Atšaukimas baigtas"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Atšaukimas nepavyko."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Nėra ko atšaukti."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Visi paryškinimai pašalinti."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Nepavyko pašalinti paryškinimų."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Nepavyksta pasiekti šio puslapio (bandykite įprastą žiniatinklio skirtuką)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Paryškinti pasirinkimą"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Paryškinti"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Paryškinti"
     }
 }

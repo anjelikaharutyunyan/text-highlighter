@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "텍스트 하이라이트",
+        "description": "Chrome에 표시되는 확장 프로그램 이름."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "선택한 텍스트를 하이라이트하고 페이지별 하이라이트를 관리합니다.",
+        "description": "manifest에 표시되는 확장 프로그램 설명."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "텍스트 하이라이트",
+        "description": "확장 프로그램 아이콘의 툴팁."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "텍스트 하이라이트",
+        "description": "팝업 페이지 제목."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "텍스트 하이라이트",
+        "description": "팝업 헤더 제목."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "되돌리기"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "모두 복사"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "모두 해제"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "해제"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "복사"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "로딩 중…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "이 페이지에는 하이라이트가 없습니다."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "페이지에서 텍스트를 선택하여 하이라이트하세요. 그런 다음 여기에서 하이라이트를 관리하고 복사할 수 있습니다."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "하이라이트: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "삭제됨"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "삭제에 실패했습니다."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "복사됨"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "모든 하이라이트가 복사되었습니다!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "복사에 실패했습니다."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "복사할 항목이 없습니다."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "되돌리기 완료"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "되돌리기에 실패했습니다."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "되돌릴 항목이 없습니다."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "모든 하이라이트가 제거되었습니다."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "하이라이트 제거에 실패했습니다."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "이 페이지에 접근할 수 없습니다(일반 웹페이지 탭을 시도하세요)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "선택 항목 하이라이트"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "하이라이트"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "하이라이트"
     }
 }

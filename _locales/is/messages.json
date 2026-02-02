@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Auðkenna texta",
+        "description": "Heiti viðbótarinnar sem birtist í Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Auðkenndu valinn texta og stjórnaðu auðkenningum á hverri síðu.",
+        "description": "Lýsing viðbótarinnar í manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Auðkenna texta",
+        "description": "Vísbending fyrir tákn viðbótarinnar."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Auðkenna texta",
+        "description": "Titill sprettiglugga."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Auðkenna texta",
+        "description": "Titill hauss sprettiglugga."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Afturkalla"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Afrita allt"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Fjarlægja allar auðkenningar"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Fjarlægja auðkenningu"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Afrita"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Hleðst…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Engar auðkenningar á þessari síðu."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Veldu hvaða texta sem er á síðunni til að auðkenna hann. Síðan geturðu stjórnað og afritað auðkenningar hér."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Auðkenningar: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Eytt"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Mistókst að eyða."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Afritað"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Allar auðkenningar afritaðar!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Mistókst að afrita."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Ekkert til að afrita."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Afturköllun lokið"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Afturköllun mistókst."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Ekkert til að afturkalla."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Allar auðkenningar fjarlægðar."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Mistókst að fjarlægja auðkenningar."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Ekki er hægt að opna þessa síðu (reyndu venjulegan vefsíðuflipa)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Auðkenna val"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Auðkenna"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Auðkenna"
     }
 }

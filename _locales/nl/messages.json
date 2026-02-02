@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Tekst markeren",
+        "description": "Naam van de extensie die in Chrome wordt weergegeven."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Markeer geselecteerde tekst en beheer markeringen per pagina.",
+        "description": "Beschrijving van de extensie in het manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Tekst markeren",
+        "description": "Tooltip voor het extensiepictogram."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Tekst markeren",
+        "description": "Titel van de pop-up pagina."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Tekst markeren",
+        "description": "Titel van de pop-upkop."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Ongedaan maken"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Alles kopiëren"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Alle markeringen verwijderen"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Markering verwijderen"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopiëren"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Bezig met laden…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Geen markeringen op deze pagina."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Selecteer tekst op de pagina om deze te markeren. Beheer en kopieer de markeringen daarna hier."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Markeringen: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Verwijderd"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Verwijderen mislukt."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Gekopieerd"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Alle markeringen zijn gekopieerd!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopiëren mislukt."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Niets om te kopiëren."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Ongedaan maken voltooid"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Ongedaan maken mislukt."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Niets om ongedaan te maken."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Alle markeringen zijn verwijderd."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Markeringen verwijderen mislukt."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Kan deze pagina niet openen (probeer een normale webpagina-tab)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Selectie markeren"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Markeren"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Markeren"
     }
 }

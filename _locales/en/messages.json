@@ -8,34 +8,37 @@
         "description": "Extension description in manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
+        "message": "highlight text",
         "description": "Tooltip for extension icon."
     },
     "popupTitle": {
-        "message": "Highlight text",
+        "message": "highlight text",
         "description": "Popup page title."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
+        "message": "highlight text",
         "description": "Popup header title."
     },
+    "statusHighlightsLabel": {
+        "message": "highlights:"
+    },
     "btnUndo": {
-        "message": "Undo"
+        "message": "undo"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "copy all"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "unmark all"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "unmark"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "copy"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "loading…"
     },
     "statusNoHighlights": {
         "message": "No highlights on this page."
@@ -44,7 +47,7 @@
         "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "highlights: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"

@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Merk teks",
+        "description": "Uitbreidingsnaam wat in Chrome gewys word."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Merk geselekteerde teks en bestuur merkers per bladsy.",
+        "description": "Uitbreidingsbeskrywing in manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Merk teks",
+        "description": "Wenkie vir die uitbreidingsikoon."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Merk teks",
+        "description": "Opspringbladsy-titel."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Merk teks",
+        "description": "Opspringkop-titel."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Ontdoen"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopieer alles"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Verwyder alle merkers"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Verwyder merker"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopieer"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Laai…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Geen merkers op hierdie bladsy nie."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Kies enige teks op die bladsy om dit te merk. Bestuur en kopieer dan die merkers hier."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Merke: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Verwyder"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Verwydering het misluk."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Gekopieer"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Alle merkers gekopieer!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopiëring het misluk."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Niks om te kopieer nie."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Ontdoen voltooi"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Ontdoen het misluk."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Niks om te ontdoen nie."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Alle merkers verwyder."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Kon nie merkers verwyder nie."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Kan nie toegang tot hierdie bladsy kry nie (probeer ’n gewone webblad-oortjie)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Merk seleksie"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Merk"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Merk"
     }
 }

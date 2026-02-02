@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Podświetl tekst",
+        "description": "Nazwa rozszerzenia wyświetlana w Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Podświetl wybrany tekst i zarządzaj podświetleniami na każdej stronie.",
+        "description": "Opis rozszerzenia w manifeście."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Podświetl tekst",
+        "description": "Podpowiedź dla ikony rozszerzenia."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Podświetl tekst",
+        "description": "Tytuł strony wyskakującego okna."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Podświetl tekst",
+        "description": "Tytuł nagłówka okna popup."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Cofnij"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopiuj wszystko"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Usuń wszystkie podświetlenia"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Usuń podświetlenie"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopiuj"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Ładowanie…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Brak podświetleń na tej stronie."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Zaznacz dowolny tekst na stronie, aby go podświetlić. Następnie zarządzaj i kopiuj podświetlenia tutaj."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Podświetlenia: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Usunięto"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Nie udało się usunąć."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Skopiowano"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Wszystkie podświetlenia zostały skopiowane!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopiowanie nie powiodło się."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Brak elementów do skopiowania."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Cofanie zakończone"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Cofanie nie powiodło się."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Brak elementów do cofnięcia."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Wszystkie podświetlenia zostały usunięte."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Nie udało się usunąć podświetleń."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Nie można uzyskać dostępu do tej strony (spróbuj zwykłej karty strony internetowej)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Podświetl zaznaczenie"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Podświetl"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Podświetl"
     }
 }

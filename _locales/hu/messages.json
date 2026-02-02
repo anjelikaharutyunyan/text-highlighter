@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Szöveg kiemelése",
+        "description": "A Chrome-ban megjelenő bővítmény neve."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "A kijelölt szöveg kiemelése és a kiemelések kezelése oldalanként.",
+        "description": "A bővítmény leírása a manifestben."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Szöveg kiemelése",
+        "description": "A bővítmény ikonjának súgóbuboréka."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Szöveg kiemelése",
+        "description": "Az előugró ablak címe."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Szöveg kiemelése",
+        "description": "Az előugró ablak fejlécének címe."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Visszavonás"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Összes másolása"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Összes kiemelés eltávolítása"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Kiemelés eltávolítása"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Másolás"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Betöltés…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Nincsenek kiemelések ezen az oldalon."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Jelöljön ki bármilyen szöveget az oldalon a kiemeléshez. Ezután itt kezelheti és másolhatja a kiemeléseket."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Kiemelések: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Törölve"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "A törlés nem sikerült."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Másolva"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Az összes kiemelés másolva lett!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "A másolás nem sikerült."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Nincs mit másolni."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Visszavonás kész"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "A visszavonás nem sikerült."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Nincs mit visszavonni."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Az összes kiemelés eltávolítva."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "A kiemelések eltávolítása nem sikerült."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Az oldal nem érhető el (próbáljon meg egy normál weboldalfület)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Kijelölés kiemelése"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Kiemelés"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Kiemelés"
     }
 }

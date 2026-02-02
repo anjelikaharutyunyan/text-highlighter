@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Đánh dấu văn bản",
+        "description": "Tên tiện ích hiển thị trong Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Đánh dấu văn bản đã chọn và quản lý các phần được đánh dấu trên từng trang.",
+        "description": "Mô tả tiện ích trong manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Đánh dấu văn bản",
+        "description": "Chú giải cho biểu tượng tiện ích."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Đánh dấu văn bản",
+        "description": "Tiêu đề cửa sổ bật lên."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Đánh dấu văn bản",
+        "description": "Tiêu đề phần đầu cửa sổ bật lên."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Hoàn tác"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Sao chép tất cả"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Bỏ đánh dấu tất cả"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Bỏ đánh dấu"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Sao chép"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Đang tải…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Không có phần nào được đánh dấu trên trang này."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Chọn bất kỳ văn bản nào trên trang để đánh dấu. Sau đó quản lý và sao chép các phần đã đánh dấu tại đây."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Phần đã đánh dấu: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Đã xóa"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Xóa không thành công."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Đã sao chép"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Đã sao chép tất cả các phần đã đánh dấu!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Sao chép không thành công."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Không có gì để sao chép."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Hoàn tác thành công"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Hoàn tác không thành công."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Không có gì để hoàn tác."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Đã xóa tất cả các phần đánh dấu."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Không thể xóa các phần đánh dấu."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Không thể truy cập trang này (hãy thử một trang web thông thường)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Đánh dấu phần đã chọn"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Đánh dấu"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Đánh dấu"
     }
 }

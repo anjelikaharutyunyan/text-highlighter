@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Marker tekst",
+        "description": "Navnet på utvidelsen som vises i Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Marker valgt tekst og administrer markeringer per side.",
+        "description": "Beskrivelse av utvidelsen i manifestet."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Marker tekst",
+        "description": "Verktøytips for utvidelsesikonet."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Marker tekst",
+        "description": "Tittel på popup-siden."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Marker tekst",
+        "description": "Tittel på popup-overskriften."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Angre"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopier alle"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Fjern alle markeringer"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Fjern markering"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopier"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Laster…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Ingen markeringer på denne siden."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Velg hvilken som helst tekst på siden for å markere den. Deretter kan du administrere og kopiere markeringene her."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Markeringer: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Slettet"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Sletting mislyktes."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Kopiert"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Alle markeringer er kopiert!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopiering mislyktes."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Ingenting å kopiere."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Angring fullført"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Angring mislyktes."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Ingenting å angre."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Alle markeringer er fjernet."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Kunne ikke fjerne markeringer."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Kan ikke få tilgang til denne siden (prøv en vanlig nettsidefane)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Marker valg"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Marker"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Marker"
     }
 }

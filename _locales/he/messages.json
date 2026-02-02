@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "הדגשת טקסט",
+        "description": "שם התוסף שמוצג ב-Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "הדגישו טקסט שנבחר ונהלו הדגשות בכל עמוד.",
+        "description": "תיאור התוסף בקובץ manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "הדגשת טקסט",
+        "description": "חלונית עזרה לסמל התוסף."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "הדגשת טקסט",
+        "description": "כותרת חלון הקופץ."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "הדגשת טקסט",
+        "description": "כותרת כותרת-העל של החלון הקופץ."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "בטל"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "העתק הכול"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "הסר את כל ההדגשות"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "הסר הדגשה"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "העתק"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "טוען…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "אין הדגשות בעמוד זה."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "בחרו כל טקסט בעמוד כדי להדגישו. לאחר מכן תוכלו לנהל ולהעתיק את ההדגשות כאן."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "הדגשות: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "נמחק"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "המחיקה נכשלה."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "הועתק"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "כל ההדגשות הועתקו!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "ההעתקה נכשלה."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "אין מה להעתיק."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "הביטול הושלם"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "הביטול נכשל."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "אין מה לבטל."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "כל ההדגשות הוסרו."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "הסרת ההדגשות נכשלה."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "לא ניתן לגשת לעמוד זה (נסו לשונית דף אינטרנט רגילה)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "הדגש בחירה"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "הדגשה"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "הדגשה"
     }
 }

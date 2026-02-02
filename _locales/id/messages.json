@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Sorot teks",
+        "description": "Nama ekstensi yang ditampilkan di Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Sorot teks yang dipilih dan kelola sorotan per halaman.",
+        "description": "Deskripsi ekstensi di manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Sorot teks",
+        "description": "Tooltip untuk ikon ekstensi."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Sorot teks",
+        "description": "Judul halaman popup."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Sorot teks",
+        "description": "Judul header popup."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Batalkan"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Salin semua"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Hapus semua sorotan"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Hapus sorotan"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Salin"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Memuat…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Tidak ada sorotan di halaman ini."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Pilih teks apa pun di halaman untuk menyorotnya. Lalu kelola dan salin sorotan di sini."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Sorotan: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Dihapus"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Gagal menghapus."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Disalin"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Semua sorotan telah disalin!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Gagal menyalin."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Tidak ada yang dapat disalin."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Pembatalan selesai"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Pembatalan gagal."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Tidak ada yang dapat dibatalkan."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Semua sorotan telah dihapus."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Gagal menghapus sorotan."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Tidak dapat mengakses halaman ini (coba tab halaman web biasa)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Sorot pilihan"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Sorot"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Sorot"
     }
 }

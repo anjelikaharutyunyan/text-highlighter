@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "मजकूर हायलाइट करा",
+        "description": "Chrome मध्ये दर्शवले जाणारे विस्ताराचे नाव."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "निवडलेला मजकूर हायलाइट करा आणि प्रत्येक पानावर हायलाइट्स व्यवस्थापित करा.",
+        "description": "मॅनिफेस्टमधील विस्ताराचे वर्णन."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "मजकूर हायलाइट करा",
+        "description": "विस्ताराच्या चिन्हासाठी टूलटिप."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "मजकूर हायलाइट करा",
+        "description": "पॉपअप पानाचे शीर्षक."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "मजकूर हायलाइट करा",
+        "description": "पॉपअप हेडरचे शीर्षक."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "पूर्ववत करा"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "सर्व कॉपी करा"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "सर्व हायलाइट्स काढा"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "हायलाइट काढा"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "कॉपी करा"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "लोड होत आहे…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "या पानावर कोणतेही हायलाइट नाहीत."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "हायलाइट करण्यासाठी पानावरील कोणताही मजकूर निवडा. नंतर येथे हायलाइट्स व्यवस्थापित करा आणि कॉपी करा."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "हायलाइट्स: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "काढून टाकले"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "काढून टाकणे अयशस्वी."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "कॉपी झाले"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "सर्व हायलाइट्स कॉपी झाले!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "कॉपी करणे अयशस्वी."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "कॉपी करण्यासाठी काहीही नाही."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "पूर्ववत करणे पूर्ण झाले"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "पूर्ववत करणे अयशस्वी."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "पूर्ववत करण्यासाठी काहीही नाही."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "सर्व हायलाइट्स काढून टाकले आहेत."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "हायलाइट्स काढून टाकणे अयशस्वी."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "हे पान उघडता येत नाही (सामान्य वेबपेज टॅब वापरून पाहा)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "निवड हायलाइट करा"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "हायलाइट"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "हायलाइट"
     }
 }

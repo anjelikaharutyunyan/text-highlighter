@@ -11,27 +11,37 @@
 <body>
     <div class="wrap">
         <div class="top">
-            <div class="title" data-i18n="popupHeaderTitle">Highlight text</div>
+            <div class="title" data-i18n="popupHeaderTitle">highlight text</div>
 
             <!-- FIX: button, not div -->
-            <div id="undoBtn" disabled data-i18n="btnUndo">Undo</div>
+            <div id="undoBtn" disabled data-i18n="btnUndo">undo</div>
 
             <div class="actions">
-                <button id="copyAll" class="btn" data-i18n="btnCopyAll">Copy all</button>
-                <button id="clearAll" class="btn danger" data-i18n="btnUnmarkAll">Unmark all</button>
+                <button id="copyAll" class="btn" data-i18n="btnCopyAll">copy all</button>
+                <button id="clearAll" class="btn danger" data-i18n="btnUnmarkAll">unmark all</button>
             </div>
         </div>
 
         <div class="statusCard">
             <div class="statusTop">
-                <div id="status" class="status" data-i18n="statusLoading">Loading…</div>
-                <div id="badge" class="badge">0</div>
+                <div id="status" class="status">
+                    <span class="statusText" data-i18n="statusLoading">highlights:</span>
+                    <span class="badge">1</span>
+                </div>
+
+                <!-- <div id="badge" class="badge">0</div> -->
             </div>
         </div>
 
         <div id="list" class="list"></div>
+
+        <div class="saveActions">
+            <div id="savePdf" class="saveBtn">save PDF</div>
+            <div id="saveDoc" class="saveBtn">save DOC</div>
+        </div>
     </div>
 
+    <script src="vendor/jspdf.umd.min.js"></script>
     <script src="popup.js"></script>
 </body>
 

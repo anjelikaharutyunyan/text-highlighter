@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Επισήμανση κειμένου",
+        "description": "Όνομα της επέκτασης που εμφανίζεται στο Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Επισημάνετε το επιλεγμένο κείμενο και διαχειριστείτε τις επισημάνσεις ανά σελίδα.",
+        "description": "Περιγραφή της επέκτασης στο manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Επισήμανση κειμένου",
+        "description": "Υπόδειξη για το εικονίδιο της επέκτασης."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Επισήμανση κειμένου",
+        "description": "Τίτλος της αναδυόμενης σελίδας."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Επισήμανση κειμένου",
+        "description": "Τίτλος κεφαλίδας του popup."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Αναίρεση"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Αντιγραφή όλων"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Κατάργηση όλων"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Κατάργηση"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Αντιγραφή"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Φόρτωση…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Δεν υπάρχουν επισημάνσεις σε αυτή τη σελίδα."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Επιλέξτε οποιοδήποτε κείμενο στη σελίδα για να το επισημάνετε. Στη συνέχεια διαχειριστείτε και αντιγράψτε τις επισημάνσεις εδώ."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Επισημάνσεις: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Διαγράφηκε"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Η διαγραφή απέτυχε."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Αντιγράφηκε"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Όλες οι επισημάνσεις αντιγράφηκαν!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Η αντιγραφή απέτυχε."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Δεν υπάρχει τίποτα για αντιγραφή."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Η αναίρεση ολοκληρώθηκε"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Η αναίρεση απέτυχε."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Δεν υπάρχει τίποτα για αναίρεση."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Όλες οι επισημάνσεις καταργήθηκαν."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Απέτυχε η κατάργηση των επισημάνσεων."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Δεν είναι δυνατή η πρόσβαση σε αυτή τη σελίδα (δοκιμάστε μια κανονική καρτέλα ιστοσελίδας)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Επισήμανση επιλογής"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Επισήμανση"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Επισήμανση"
     }
 }

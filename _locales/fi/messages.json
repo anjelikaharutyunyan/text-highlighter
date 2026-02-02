@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Korosta tekstiä",
+        "description": "Chromessa näkyvän laajennuksen nimi."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Korosta valittu teksti ja hallitse korostuksia sivukohtaisesti.",
+        "description": "Laajennuksen kuvaus manifestissa."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Korosta tekstiä",
+        "description": "Laajennuksen kuvakkeen työkaluvihje."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Korosta tekstiä",
+        "description": "Ponnahdusikkunan otsikko."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Korosta tekstiä",
+        "description": "Ponnahdusikkunan ylätunnisteen otsikko."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Kumoa"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopioi kaikki"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Poista kaikki korostukset"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Poista korostus"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopioi"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Ladataan…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Tällä sivulla ei ole korostuksia."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Valitse sivulta mikä tahansa teksti korostettavaksi. Sen jälkeen voit hallita ja kopioida korostuksia täällä."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Korostukset: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Poistettu"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Poistaminen epäonnistui."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Kopioitu"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Kaikki korostukset kopioitu!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopiointi epäonnistui."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Ei mitään kopioitavaa."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Kumoaminen valmis"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Kumoaminen epäonnistui."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Ei mitään kumottavaa."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Kaikki korostukset on poistettu."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Korostusten poistaminen epäonnistui."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Tälle sivulle ei voi päästä (kokeile tavallista verkkosivuvälilehteä)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Korosta valinta"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Korosta"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Korosta"
     }
 }

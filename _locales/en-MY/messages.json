@@ -85,7 +85,7 @@
         "message": "Failed to clear highlights."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Cannot access this page (try a normal web page tab)."
     },
     "ariaHighlightSelection": {
         "message": "Highlight selection"

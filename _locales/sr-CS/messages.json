@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Истакни текст",
+        "description": "Назив проширења приказан у Chrome-у."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Истакните изабрани текст и управљајте истицањима по страницама.",
+        "description": "Опис проширења у манифесту."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Истакни текст",
+        "description": "Објашњење за икону проширења."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Истакни текст",
+        "description": "Наслов искачућег прозора."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Истакни текст",
+        "description": "Наслов заглавља искачућег прозора."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Опозови"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Копирај све"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Уклони сва истицања"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Уклони истицање"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Копирај"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Учитавање…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "На овој страници нема истицања."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Изаберите било који текст на страници да бисте га истакли. Затим овде управљајте и копирајте истицања."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Истицања: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Обрисано"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Брисање није успело."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Копирано"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Сва истицања су копирана!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Копирање није успело."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Нема ничега за копирање."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Опозив је завршен"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Опозив није успео."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Нема ничега за опозив."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Сва истицања су уклоњена."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Уклањање истицања није успело."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Није могуће приступити овој страници (покушајте са обичном картицом веб-странице)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Истакни избор"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Истакни"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Истакни"
     }
 }

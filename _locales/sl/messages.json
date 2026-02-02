@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Označi besedilo",
+        "description": "Ime razširitve, prikazano v Chromu."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Označite izbrano besedilo in upravljajte označbe po posameznih straneh.",
+        "description": "Opis razširitve v manifestu."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Označi besedilo",
+        "description": "Namig orodja za ikono razširitve."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Označi besedilo",
+        "description": "Naslov pojavnega okna."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Označi besedilo",
+        "description": "Naslov glave pojavnega okna."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Razveljavi"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopiraj vse"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Odstrani vse označbe"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Odstrani označbo"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopiraj"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Nalaganje…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Na tej strani ni označb."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Izberite poljubno besedilo na strani, da ga označite. Nato tukaj upravljajte in kopirajte označbe."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Označbe: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Izbrisano"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Brisanje ni uspelo."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Kopirano"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Vse označbe so bile kopirane!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopiranje ni uspelo."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Ni ničesar za kopirati."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Razveljavitev končana"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Razveljavitev ni uspela."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Ni ničesar za razveljaviti."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Vse označbe so bile odstranjene."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Odstranjevanje označb ni uspelo."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Do te strani ni mogoče dostopati (poskusite z običajnim zavihkom spletne strani)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Označi izbor"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Označi"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Označi"
     }
 }

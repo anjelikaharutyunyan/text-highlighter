@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Surligner le texte",
+        "description": "Nom de l’extension affiché dans Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Surlignez le texte sélectionné et gérez les surlignages par page.",
+        "description": "Description de l’extension dans le manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Surligner le texte",
+        "description": "Infobulle de l’icône de l’extension."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Surligner le texte",
+        "description": "Titre de la page popup."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Surligner le texte",
+        "description": "Titre de l’en-tête du popup."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Annuler"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Tout copier"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Tout supprimer"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Supprimer"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Copier"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Chargement…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Aucun surlignage sur cette page."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Sélectionnez n’importe quel texte sur la page pour le surligner. Ensuite, gérez et copiez les surlignages ici."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Surlignages : $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Supprimé"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "La suppression a échoué."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Copié"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Tous les surlignages ont été copiés !"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "La copie a échoué."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Rien à copier."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Annulation terminée"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "L’annulation a échoué."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Rien à annuler."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Tous les surlignages ont été supprimés."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Échec de la suppression des surlignages."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Impossible d’accéder à cette page (essayez un onglet de page web normal)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Surligner la sélection"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Surligner"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Surligner"
     }
 }

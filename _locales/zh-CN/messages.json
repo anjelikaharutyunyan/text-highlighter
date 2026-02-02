@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "高亮文本",
+        "description": "在 Chrome 中显示的扩展名称"
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "高亮选中的文本，并按页面管理高亮内容。",
+        "description": "manifest 中的扩展描述"
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "高亮文本",
+        "description": "扩展图标的提示文字"
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "高亮文本",
+        "description": "弹出窗口标题"
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "高亮文本",
+        "description": "弹出窗口头部标题"
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "撤销"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "全部复制"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "清除所有高亮"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "取消高亮"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "复制"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "加载中…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "此页面没有高亮内容。"
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "在页面中选择任意文本即可高亮。然后可在此管理和复制高亮内容。"
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "高亮数量：$COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "已删除"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "删除失败。"
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "已复制"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "已复制所有高亮内容！"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "复制失败。"
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "没有可复制的内容。"
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "撤销完成"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "撤销失败。"
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "没有可撤销的操作。"
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "已清除所有高亮内容。"
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "清除高亮失败。"
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "无法访问此页面（请尝试普通网页标签）。"
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "高亮所选内容"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "高亮"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "高亮"
     }
 }

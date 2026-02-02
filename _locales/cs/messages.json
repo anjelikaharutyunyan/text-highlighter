@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Zvýraznit text",
+        "description": "Název rozšíření zobrazený v Chromu."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Zvýrazněte vybraný text a spravujte zvýraznění na jednotlivých stránkách.",
+        "description": "Popis rozšíření v manifestu."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Zvýraznit text",
+        "description": "Popisek ikony rozšíření."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Zvýraznit text",
+        "description": "Název vyskakovacího okna."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Zvýraznit text",
+        "description": "Nadpis hlavičky popup okna."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Zpět"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopírovat vše"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Odebrat vše"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Odebrat"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopírovat"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Načítání…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Na této stránce nejsou žádná zvýraznění."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Vyberte libovolný text na stránce pro jeho zvýraznění. Poté zde můžete zvýraznění spravovat a kopírovat."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Zvýraznění: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Smazáno"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Smazání se nezdařilo."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Zkopírováno"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Všechna zvýraznění byla zkopírována!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopírování se nezdařilo."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Není co kopírovat."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Vrácení zpět dokončeno"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Vrácení zpět se nezdařilo."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Není co vracet zpět."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Všechna zvýraznění byla odstraněna."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Nepodařilo se odstranit zvýraznění."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Nelze přistoupit k této stránce (zkuste běžnou webovou kartu)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Zvýraznit výběr"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Zvýraznit"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Zvýraznit"
     }
 }

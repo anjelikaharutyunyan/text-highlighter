@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Виділення тексту",
+        "description": "Назва розширення, що відображається в Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Виділяйте вибраний текст і керуйте виділеннями на кожній сторінці.",
+        "description": "Опис розширення в маніфесті."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Виділити текст",
+        "description": "Підказка для значка розширення."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Виділення тексту",
+        "description": "Заголовок спливаючого вікна."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Виділення тексту",
+        "description": "Заголовок у шапці спливаючого вікна."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Скасувати"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Копіювати все"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Зняти всі виділення"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Зняти виділення"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Копіювати"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Завантаження…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "На цій сторінці немає виділень."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Виберіть будь-який текст на сторінці, щоб виділити його. Потім керуйте та копіюйте виділення тут."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Виділення: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Видалено"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Не вдалося видалити."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Скопійовано"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Усі виділення скопійовано!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Не вдалося скопіювати."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Немає чого копіювати."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Скасування завершено"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Не вдалося скасувати."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Немає чого скасовувати."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Усі виділення очищено."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Не вдалося очистити виділення."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Неможливо отримати доступ до цієї сторінки (спробуйте звичайну вебсторінку)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Виділити вибране"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Виділити"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Виділити"
     }
 }

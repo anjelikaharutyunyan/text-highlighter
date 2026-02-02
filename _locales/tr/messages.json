@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Metni vurgula",
+        "description": "Chrome'da görünen uzantı adı"
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Seçilen metni vurgulayın ve sayfa başına vurguları yönetin.",
+        "description": "Manifest dosyasındaki uzantı açıklaması"
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Metni vurgula",
+        "description": "Uzantı simgesi için ipucu"
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Metni vurgula",
+        "description": "Açılır pencere başlığı"
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Metni vurgula",
+        "description": "Açılır pencere üst başlığı"
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Geri al"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Tümünü kopyala"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Tüm vurguları kaldır"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Vurguyu kaldır"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopyala"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Yükleniyor…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Bu sayfada vurgulama yok."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Vurgulamak için sayfadaki herhangi bir metni seçin. Ardından vurguları buradan yönetin ve kopyalayın."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Vurgular: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Silindi"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Silme başarısız."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Kopyalandı"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Tüm vurgular kopyalandı!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopyalama başarısız."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Kopyalanacak bir şey yok."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Geri alma tamamlandı"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Geri alma başarısız."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Geri alınacak bir şey yok."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Tüm vurgular temizlendi."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Vurgular temizlenemedi."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Bu sayfaya erişilemiyor (normal bir web sayfası deneyin)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Seçimi vurgula"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Vurgula"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Vurgula"
     }
 }

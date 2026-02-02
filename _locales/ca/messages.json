@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Ressaltar text",
+        "description": "Nom de l’extensió mostrat a Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Ressalta el text seleccionat i gestiona els ressaltats per pàgina.",
+        "description": "Descripció de l’extensió al manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Ressaltar text",
+        "description": "Text emergent de la icona de l’extensió."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Ressaltar text",
+        "description": "Títol de la pàgina emergent."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Ressaltar text",
+        "description": "Títol de la capçalera del popup."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Desfés"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Copia-ho tot"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Desmarca-ho tot"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Desmarca"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Copia"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Carregant…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "No hi ha ressaltats en aquesta pàgina."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Selecciona qualsevol text de la pàgina per ressaltar-lo. Després, gestiona i copia els ressaltats aquí."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Ressaltats: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Suprimit"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "No s’ha pogut suprimir."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Copiat"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Tots els ressaltats s’han copiat!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "La còpia ha fallat."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "No hi ha res per copiar."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Desfer completat"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "No s’ha pogut desfer."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "No hi ha res per desfer."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Tots els ressaltats s’han esborrat."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "No s’han pogut esborrar els ressaltats."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "No es pot accedir a aquesta pàgina (prova amb una pestanya web normal)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Ressaltar la selecció"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Ressaltar"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Ressaltar"
     }
 }

@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Fremhæv tekst",
+        "description": "Udvidelsens navn vist i Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Fremhæv markeret tekst og administrer fremhævninger pr. side.",
+        "description": "Udvidelsesbeskrivelse i manifestet."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Fremhæv tekst",
+        "description": "Værktøjstip for udvidelsesikonet."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Fremhæv tekst",
+        "description": "Titel på popup-siden."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Fremhæv tekst",
+        "description": "Titel på popup-headeren."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Fortryd"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Kopiér alle"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Fjern alle markeringer"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Fjern markering"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopiér"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Indlæser…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Ingen fremhævninger på denne side."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Vælg en vilkårlig tekst på siden for at fremhæve den. Administrer og kopiér derefter fremhævningerne her."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Fremhævninger: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Slettet"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Sletning mislykkedes."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Kopieret"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Alle fremhævninger blev kopieret!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopiering mislykkedes."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Intet at kopiere."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Fortrydelse gennemført"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Fortrydelse mislykkedes."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Intet at fortryde."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Alle fremhævninger blev fjernet."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Kunne ikke fjerne fremhævninger."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Kan ikke få adgang til denne side (prøv en normal webfane)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Fremhæv markering"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Fremhæv"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Fremhæv"
     }
 }

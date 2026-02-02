@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Realçar texto",
+        "description": "Nome da extensão apresentado no Chrome."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Realce o texto selecionado e gira os realces por página.",
+        "description": "Descrição da extensão no manifesto."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Realçar texto",
+        "description": "Dica de ferramenta do ícone da extensão."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Realçar texto",
+        "description": "Título da página do pop-up."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Realçar texto",
+        "description": "Título do cabeçalho do pop-up."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Anular"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Copiar tudo"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Remover todos os realces"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Remover realce"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Copiar"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "A carregar…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Não há realces nesta página."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Selecione qualquer texto na página para o realçar. Depois, faça a gestão e copie os realces aqui."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Realces: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Eliminado"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Falha ao eliminar."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Copiado"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Todos os realces foram copiados!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Falha ao copiar."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Nada para copiar."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Anulação concluída"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Falha ao anular."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Nada para anular."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Todos os realces foram removidos."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Falha ao remover os realces."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Não é possível aceder a esta página (tente um separador normal de página web)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Realçar seleção"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Realçar"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Realçar"
     }
 }

@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "Text hervorheben",
+        "description": "Name der Erweiterung, der in Chrome angezeigt wird."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "Markierten Text hervorheben und Hervorhebungen pro Seite verwalten.",
+        "description": "Beschreibung der Erweiterung im Manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "Text hervorheben",
+        "description": "Tooltip für das Erweiterungssymbol."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "Text hervorheben",
+        "description": "Titel der Popup-Seite."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "Text hervorheben",
+        "description": "Titel der Popup-Kopfzeile."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "Rückgängig"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "Alles kopieren"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "Alle Markierungen entfernen"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "Markierung entfernen"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "Kopieren"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "Wird geladen…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "Keine Hervorhebungen auf dieser Seite."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "Wählen Sie einen beliebigen Text auf der Seite aus, um ihn hervorzuheben. Verwalten und kopieren Sie die Hervorhebungen anschließend hier."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "Hervorhebungen: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "Gelöscht"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "Löschen fehlgeschlagen."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "Kopiert"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "Alle Hervorhebungen wurden kopiert!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "Kopieren fehlgeschlagen."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "Nichts zum Kopieren."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "Rückgängig gemacht"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "Rückgängig machen fehlgeschlagen."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "Nichts zum Rückgängig machen."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "Alle Hervorhebungen wurden entfernt."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "Hervorhebungen konnten nicht entfernt werden."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "Auf diese Seite kann nicht zugegriffen werden (versuchen Sie eine normale Webseiten-Registerkarte)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "Auswahl hervorheben"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "Hervorheben"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "Hervorheben"
     }
 }

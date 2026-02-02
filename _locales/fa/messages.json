@@ -1,50 +1,50 @@
 {
     "extName": {
-        "message": "Highlight text",
-        "description": "Extension name shown in Chrome."
+        "message": "برجسته‌سازی متن",
+        "description": "نام افزونه که در Chrome نمایش داده می‌شود."
     },
     "extDescription": {
-        "message": "Highlight selected text and manage highlights per page.",
-        "description": "Extension description in manifest."
+        "message": "متن انتخاب‌شده را برجسته کنید و برجسته‌سازی‌ها را در هر صفحه مدیریت کنید.",
+        "description": "توضیح افزونه در فایل manifest."
     },
     "actionTitle": {
-        "message": "Highlight text",
-        "description": "Tooltip for extension icon."
+        "message": "برجسته‌سازی متن",
+        "description": "راهنمای ابزار برای آیکن افزونه."
     },
     "popupTitle": {
-        "message": "Highlight text",
-        "description": "Popup page title."
+        "message": "برجسته‌سازی متن",
+        "description": "عنوان صفحهٔ پنجرهٔ بازشو."
     },
     "popupHeaderTitle": {
-        "message": "Highlight text",
-        "description": "Popup header title."
+        "message": "برجسته‌سازی متن",
+        "description": "عنوان سربرگ پنجرهٔ بازشو."
     },
     "btnUndo": {
-        "message": "Undo"
+        "message": "بازگردانی"
     },
     "btnCopyAll": {
-        "message": "Copy all"
+        "message": "کپی همه"
     },
     "btnUnmarkAll": {
-        "message": "Unmark all"
+        "message": "حذف همهٔ برجسته‌ها"
     },
     "btnUnmarkOne": {
-        "message": "Unmark"
+        "message": "حذف برجسته"
     },
     "btnCopyOne": {
-        "message": "Copy"
+        "message": "کپی"
     },
     "statusLoading": {
-        "message": "Loading…"
+        "message": "در حال بارگذاری…"
     },
     "statusNoHighlights": {
-        "message": "No highlights on this page."
+        "message": "در این صفحه برجسته‌ای وجود ندارد."
     },
     "hintEmpty": {
-        "message": "Select any text on the page to highlight it. Then manage and copy highlights here."
+        "message": "برای برجسته‌سازی، هر متنی را در صفحه انتخاب کنید. سپس برجسته‌ها را اینجا مدیریت و کپی کنید."
     },
     "statusHighlightsCount": {
-        "message": "Highlights: $COUNT$",
+        "message": "برجسته‌ها: $COUNT$",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -52,48 +52,48 @@
         }
     },
     "msgDeleted": {
-        "message": "Deleted"
+        "message": "حذف شد"
     },
     "msgDeleteFailed": {
-        "message": "Delete failed."
+        "message": "حذف ناموفق بود."
     },
     "msgCopied": {
-        "message": "Copied"
+        "message": "کپی شد"
     },
     "msgCopiedAll": {
-        "message": "Copied all highlights!"
+        "message": "همهٔ برجسته‌ها کپی شدند!"
     },
     "msgCopyFailed": {
-        "message": "Copy failed."
+        "message": "کپی ناموفق بود."
     },
     "msgNothingToCopy": {
-        "message": "Nothing to copy."
+        "message": "چیزی برای کپی وجود ندارد."
     },
     "msgUndoComplete": {
-        "message": "Undo complete"
+        "message": "بازگردانی انجام شد"
     },
     "msgUndoFailed": {
-        "message": "Undo failed."
+        "message": "بازگردانی ناموفق بود."
     },
     "msgNothingToUndo": {
-        "message": "Nothing to undo."
+        "message": "چیزی برای بازگردانی وجود ندارد."
     },
     "msgAllCleared": {
-        "message": "All highlights cleared."
+        "message": "همهٔ برجسته‌ها پاک شدند."
     },
     "msgClearFailed": {
-        "message": "Failed to clear highlights."
+        "message": "پاک‌سازی برجسته‌ها ناموفق بود."
     },
     "msgCannotAccessPage": {
-        "message": "Cannot access this page (try a normal webpage tab)."
+        "message": "دسترسی به این صفحه ممکن نیست (یک تب وب معمولی را امتحان کنید)."
     },
     "ariaHighlightSelection": {
-        "message": "Highlight selection"
+        "message": "برجسته‌سازی انتخاب"
     },
     "titleHighlight": {
-        "message": "Highlight"
+        "message": "برجسته‌سازی"
     },
     "altHighlight": {
-        "message": "Highlight"
+        "message": "برجسته‌سازی"
     }
 }
